@@ -1,0 +1,41 @@
+{
+    "bundle": {
+        "css/oauth2": {
+            "styles" : [
+                "local/api/bootstrap-toggle-master/css/bootstrap-toggle.min.css"
+            ],
+            "options": {
+                "result": {
+                    "type": {
+                        "styles": "plain"
+                    }
+                }
+            }
+        },
+		"js/oauth2": {
+            "scripts" : [
+                "oauth2/js/edit.js",
+                "local/api/bootstrap-toggle-master/js/bootstrap-toggle.min.js"
+            ],
+            "options": {
+                "result": {
+                    "type": {
+                        "scripts": "plain"
+                    }
+                }
+            }
+        },
+        "js/pages/clients": {
+            "scripts" : [
+                "oauth2/js/create.js"
+            ],
+            "options": {
+                "result": {
+                    "type": {
+                        "scripts": "plain"
+                    }
+                }
+            }
+        }
+    }
+}
