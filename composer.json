@@ -1,9 +1,9 @@
 {
-    "name": "ekwav/uf_oauth2_server",
+    "name": "jy2008/OAuth2ServerJY",
     "type": "userfrosting-sprinkle",
     "description": "OAuth2 Api module for UserFrosting.",
     "keywords": ["OAuth2", "Server", "userfrosting"],
-    "homepage": "https://github.com/Ekwav/UF_OAUTH2-SERVERJY",
+    "homepage": "https://github.com/jy2008/OAuth2ServerJY",
     "license" : "",
     "authors" : [
         {
